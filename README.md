@@ -34,6 +34,7 @@ print('Using PyTorch version', torch.__version__)
 ```
 
 2. Preparing Training and Test Sets
+
 3. Creating Custom Dataset
 4. Image Transformations
 5. Prepare DataLoader
