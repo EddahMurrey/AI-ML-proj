@@ -7,7 +7,7 @@ and machine learning enthusiasts. The algorithm would then try to detect from th
 image has covid-19. The images are in three folders normal, viral, covid with about 1000 images each. This is a 
 continual research hence, we are working to improve the usecase and algorithm and also add more datasets. 
 
-###Prerequisites
+### Prerequisites
 - Anaconda or Google Colab to write code in Jupyter notebook
 
 ### How It Works
